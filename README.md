@@ -1,14 +1,21 @@
 # Cursor Context Clipper
 
-> **⚡ [Early Access]**
+> ## ⚡ 快速安装 (30秒完成)
 >
-> Chrome Web Store is auditing. Download v1.0.0 ZIP to install manually now!
+> <a href="https://github.com/JustinXai/cursor-context-clipper/releases/download/v1.0.0/cursor-context-clipper-v1.0.0.zip" style="display:inline-block;background:linear-gradient(135deg,#ff6b6b,#ee5a24);color:#fff;font-weight:bold;padding:12px 28px;border-radius:8px;text-decoration:none;font-size:16px;box-shadow:0 4px 15px rgba(238,90,36,0.4);">📥 下载 ZIP 文件</a>
 >
-> **1.** Unzip the downloaded file
-> **2.** Open `chrome://extensions/` → Enable **Developer mode** → Click **Load unpacked** → Select the folder
-> **3.** Done! Click the puzzle icon to use.
-
----
+> **状态：** Currently in Chrome Web Store Review. This is the official early-access version.
+>
+> **安装步骤：**
+> 1. Download the ZIP file
+> 2. Unzip it to a folder
+> 3. Go to `chrome://extensions/`, enable **Developer Mode**, and click **Load Unpacked**
+>
+> ---
+>
+> *If you like this tool, please give it a ⭐ to support the development!*
+>
+> ---
 
 ## The Problem
 
