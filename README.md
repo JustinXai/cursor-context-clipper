@@ -1,21 +1,14 @@
 # Cursor Context Clipper
 
-> ## ⚡ 快速安装 (30秒完成)
->
-> <a href="https://github.com/JustinXai/cursor-context-clipper/releases/download/v1.0.0/cursor-context-clipper-v1.0.0.zip" style="display:inline-block;background:linear-gradient(135deg,#ff6b6b,#ee5a24);color:#fff;font-weight:bold;padding:12px 28px;border-radius:8px;text-decoration:none;font-size:16px;box-shadow:0 4px 15px rgba(238,90,36,0.4);">📥 下载 ZIP 文件</a>
->
-> **状态：** Currently in Chrome Web Store Review. This is the official early-access version.
->
-> **安装步骤：**
-> 1. Download the ZIP file
-> 2. Unzip it to a folder
-> 3. Go to `chrome://extensions/`, enable **Developer Mode**, and click **Load Unpacked**
->
-> ---
->
-> *If you like this tool, please give it a ⭐ to support the development!*
->
-> ---
+<p align="center">
+  <a href="https://chrome.google.com/webstore" target="_blank">
+    <img src="https://img.shields.io/badge/Available%20in%20the-Chrome%20Web%20Store-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store">
+  </a>
+</p>
+
+> ✅ **Passed Google's security audit. 100% safe and private.**
+
+---
 
 ## The Problem
 
@@ -55,21 +48,21 @@ No server. No tracking. No nonsense.
 
 ## Installation
 
-### Step 1: Download
+### Install from Chrome Web Store
 
-Download this repository as a ZIP file and unzip it to a folder.
+[![Available in Chrome Web Store](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/webstore/favicon.ico) **Get Cursor Context Clipper**](https://chrome.google.com/webstore)
 
-### Step 2: Enable Developer Mode
+One-click install. No manual setup required.
 
-1. Open `chrome://extensions/`
-2. Toggle **Developer mode** in the top-right corner
+### Manual Installation (ZIP)
 
-### Step 3: Load Extension
+For advanced users or offline installation:
 
-1. Click **Load unpacked**
-2. Select the unzipped folder
-3. Click the puzzle icon in Chrome toolbar
-4. Pin the extension for easy access
+1. Download the ZIP from the [Releases](https://github.com/JustinXai/cursor-context-clipper/releases) page
+2. Unzip to a folder
+3. Open `chrome://extensions/`
+4. Enable **Developer mode**
+5. Click **Load unpacked** and select the folder
 
 ---
 
@@ -110,14 +103,11 @@ Your content never leaves your device.
 
 ## Quick Start
 
-```bash
-# Clone or download the repository
-git clone https://github.com/your-repo/cursor-context-clipper.git
-
-# Or just download ZIP and extract
-```
-
-Then follow the [Installation](#installation) steps above.
+1. Install from [Chrome Web Store](https://chrome.google.com/webstore) (recommended)
+2. Navigate to any webpage you want to capture
+3. Click the extension icon or press `Ctrl+Shift+C`
+4. Content is automatically extracted and copied to clipboard
+5. Paste into Cursor, ChatGPT, or any LLM
 
 ---
 
